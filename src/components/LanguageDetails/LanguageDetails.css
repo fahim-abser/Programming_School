@@ -1,0 +1,8 @@
+.leftside {
+    margin-left: 450px;
+}
+@media only screen and (max-width: 600px) {
+  .leftside {
+    margin-left: 120px;
+  }
+}

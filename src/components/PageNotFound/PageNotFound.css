@@ -1,0 +1,12 @@
+.error{
+    margin-top: 200px;
+}
+.oranged{
+    color: orangered;
+}
+.error h2{
+    color: aqua;
+}
+.error h3, p {
+    color: rgb(197, 148, 243);
+}

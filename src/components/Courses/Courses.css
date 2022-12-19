@@ -1,0 +1,12 @@
+.card-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.single-card {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.h3-color{
+    color: black;
+}
